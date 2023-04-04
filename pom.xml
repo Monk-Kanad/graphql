@@ -82,6 +82,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>springboot-graphql</finalName>
     </build>
 
 </project>
